@@ -1,0 +1,23 @@
+﻿,,Refinery,CPO Mill,Plantation,Nursery,methanol prod,Nitrogen fertilizer,potassium fertilizer,steam,freight train transportation,diesel,polyethylene,residual fuel oil,El. at grid,El. coal-based,El. NG-based,NG extracted,NG pipeline,coal mining,crude oil extracted,crude oil transport,phosphate fertilizer,Urea
+Biodiesel (Palm Oil),kg/ha plantation y^-1,6435,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glycerine,kg/ha plantation y^-2,650,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FFB,kg,0,-30000,0,26000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CPO,kg,-6500,6500,0,0,0,0,0,0,0,1360,-2733.948718,0,0,0,0,0,0,0,0,0,0,0
+methanol,kg,-2210,0,0,0,1,0,0,0,0,0,3840,0,0,0,0,0,0,0,0,0,0,0
+Nitrogen fertilizer,kg,0,0,0,-3141.5,0,1,0,0,0,0,0,0,0,0,0,-0.049882,0,0,0,0,0,0
+potassium fertilizer,kg,0,0,0,-3891.5,0,0,1,0,0,-15.479775,0,0,0,0,0,0,0,0,0,0,0,0
+steam,kg,-6500,0,0,0,0,0,0,1,0,-7.385775,0,0,0,0,0,0,0,0,0,0,0,0
+freight train transportation,ton*km,-520,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.049,0,0,0,0,0,0
+diesel,kg,0,0,-0.32,-89.23,0,0,0,0,-0.0107,0,-150.8997669,0,0,0,0,-0.007987,1,0,0,0,0,0
+polyethylene,kg,0,0,0,-2951.5,0,0,0,0,0,0,0,0,0,0,0,0,-0.42,0,0,0,0,0
+residual fuel oil,kg,0,0,0,0,0,0,0,0,0,0,0,0.049,0,0,0,0,-0.63,0,1,0,0,0
+electricity at grid,kWhr,260,0,-8,0,-0.25,-0.33,-0.05,0,0,-60.705,-3410.125874,-0.007007,1,0,-0.03,0,0,-0.04,0,0,50,-0.0005
+electricity  [coal],kWhr,0,0,0,0,0,0,0,0,0,0,0,0,-0.63,1,0,0,0,0,0,49.23454545,-51.224,0
+electricity [ NG ],kWhr,0,0,0,0,-0.0015,-0.002,0,-0.0225,0,0,0,0,-0.42,0,1,0,0,0,-0.44,0,0,0
+natural gas extracted,kg,0,0,0,0,0,0,0,0,0,0,-273.3948718,0,0,0,0,0,0,0,-0.066,0,0,0
+NG pipeline,ton*km,0,0,2.17,0,0,0,0,0,0,-1.94962,0,0,0,0,0,0,0,0,0,0,0,0
+coal mining,kg,0,0,-1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+crude oil [extracted],kg,0,0,0,0,0,0,0,0,0,-11.7884,0,-0.049882,0,-0.95,0,0,0,1,0,0,0,0
+crude oil [transport],ton*km,0,0,0,0,0,0,0,0,0,-20.403,0,-0.007007,0,-0.0005,0,0,0,0,0,0,0,0
+phosphate fertilizer,kg,0,0,0,-3141.5,0,0,0,0,0,-0.54408,0,0,0,0,0,0,0,0,0,0,0,0
+Urea,kg/ha plantation y^-1,0,0,-1.682,-833.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
